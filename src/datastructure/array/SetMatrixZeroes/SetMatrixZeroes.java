@@ -1,4 +1,4 @@
-package datastructure.array;
+package datastructure.array.SetMatrixZeroes;
 
 /*
 https://www.youtube.com/watch?v=zgaOU5aInOc
